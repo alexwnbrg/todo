@@ -15,7 +15,7 @@ function App() {
         <TodoContextProvider>
           <AddTodoModal />
           <div className="py-10 h-screen w-full bg-PurpleLightShade  flex justify-center items-center font-sans  ">
-            <main className="grid grid-cols-[1fr_12fr] h-full w-[1080px]  overflow-hidden rounded-3xl shadow-lg ">
+            <main className="grid md:grid-cols-[1fr_12fr] h-full w-[1080px]  overflow-hidden rounded-3xl shadow-lg ">
               <Sidebar />
               <Routes>
                 <Route path="login" element={<Login />} />
