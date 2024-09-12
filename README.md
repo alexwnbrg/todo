@@ -2,6 +2,10 @@
 
 This is a simple, fully functional Todo app built using React, Tailwind CSS, and Firebase. The app allows users to create, edit, and delete tasks while managing user authentication and persistent data through Firebase.
 
+Check it out at:
+
+https://basic-todo-app-3334a.web.app/
+
 ## Features
 
 - **Add, Edit, and Delete Todos**: Manage your tasks with ease. You can add new tasks, edit existing ones, and delete completed or unneeded tasks.
