@@ -8,7 +8,6 @@ This is a simple, fully functional Todo app built using React, Tailwind CSS, and
 - **User Authentication**: Sign in with Google using Firebase Authentication.
 - **Cloud Storage**: Todos are stored securely in Firestore, ensuring data is accessible across devices.
 - **Responsive Design**: Built with Tailwind CSS to ensure a seamless experience on all screen sizes.
-- **Dark Mode**: Toggle between light and dark themes with the context provider.
 
 ## Technologies Used
 
